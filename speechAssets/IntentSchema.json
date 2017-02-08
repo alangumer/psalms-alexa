@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "intent": "GetNewQuotationIntent",
+      "slots": [
+        {
+          "name": "Theme",
+          "type": "LIST_OF_THEMES"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+ }

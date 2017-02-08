@@ -1,0 +1,8 @@
+GetNewQuotationIntent tell me {Theme} psalms
+GetNewQuotationIntent tell me {Theme}
+
+GetNewQuotationIntent give me {Theme} psalms
+GetNewQuotationIntent give me {Theme}
+
+GetNewQuotationIntent tell me psalms
+GetNewQuotationIntent give me psalms
