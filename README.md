@@ -1,4 +1,7 @@
-# Sample AWS Lambda function for Alexa
+#Psalms by theme for Alexa
+Listen your favorites psalms by theme, the skill read the passages based on the theme you choose.
+
+## AWS Lambda function for Alexa
 A simple [AWS Lambda](http://aws.amazon.com/lambda) function that demonstrates how to write a skill for the Amazon Echo using the Alexa SDK.
 
 ## Concepts
