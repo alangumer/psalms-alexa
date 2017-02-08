@@ -1,5 +1,6 @@
 #Psalms by theme for Alexa
 Listen your favorites psalms by theme, the skill read the passages based on the theme you choose.
+This skill uses http://bibles.org/pages/api you will need to create an account and get your API key.
 
 ## AWS Lambda function for Alexa
 A simple [AWS Lambda](http://aws.amazon.com/lambda) function that demonstrates how to write a skill for the Amazon Echo using the Alexa SDK.
